@@ -52,7 +52,10 @@ To set up your local MySQL database and seed it with demo data, follow these ste
 #### Start the Frontend Application
 
 1. navigate to the frontend
-2. use the `serve1 command to serve the application on localhost:3000/
+2. use the `serve` command to serve the application on localhost:3000/ by using the command
+   
    ```serve -s build```
+   
    if you don't have `serve` installed, you can install it by running
+   
    ```npm install -g serve```
